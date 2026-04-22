@@ -404,14 +404,14 @@ g++ deffie_helmin.cpp -o brute_demo
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Awais**
-*Information Security Project*
-*Department of Artificial intelligence *
+**Awais** | **Zain Nadeem**  
 
----
+🎓 Information Security Project  
+🏫 Department of Artificial Intelligence  
 
+🔗 Connect on GitHub: [the-lazyguy](https://github.com/the-lazyguy)
 <div align="center">
 
 **⭐ If this project helped you understand cryptography, consider starring it! ⭐**
